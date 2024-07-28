@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Master of Science in Cybersecurity**
 
-- 🌱 I’m currently learning **programming**
+- 🌱 I’m currently learning **Assembly Languange and Reverse Engineering**
 
 - 📝 I regularly write articles on [https://www.techtalkwithwan.com/](https://www.techtalkwithwan.com/)
 
