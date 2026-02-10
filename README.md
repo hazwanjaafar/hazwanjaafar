@@ -15,7 +15,7 @@
 
 - 👨‍💻 I'm currently learning **Assembly Language and Reverse Engineering**
 
-- 📝 I regularly write articles on [https://www.techtalkwithwan.com/](https://www.techtalkwithwan.com/)
+- 📝 I regularly write articles on [https://sites.google.com/view/www-techtalkwithwan-com/home](https://sites.google.com/view/www-techtalkwithwan-com/home)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
