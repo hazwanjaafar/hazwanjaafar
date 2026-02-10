@@ -9,14 +9,17 @@
 
 <img align='right' alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w">
 
+<p align="center">
 
-= 🔭 I’m currently working on **A Process-Aware Decision Support Framework for OT-SOCs:Integrating Risk-Based Response Prioritization with Cyber-Physical Visualizations**
+- 🔭 I’m currently working on **A Process-Aware Decision Support Framework for OT-SOCs:Integrating Risk-Based Response Prioritization with Cyber-Physical Visualizations**
 
 - 🌱 I’m currently pursuing **Master of Science in Cybersecurity**
 
 - 👨‍💻 I'm currently learning **Assembly Language and Reverse Engineering**
 
 - 📝 I regularly write articles on [https://sites.google.com/view/www-techtalkwithwan-com/home](https://sites.google.com/view/www-techtalkwithwan-com/home)
+
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
