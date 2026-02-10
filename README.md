@@ -11,7 +11,9 @@
 
 <p align="center">
 
-- 🔭 I’m currently working on **A Process-Aware Decision Support Framework for OT-SOCs:Integrating Risk-Based Response Prioritization with Cyber-Physical Visualizations**
+## 🔭 Research Focus
+I’m currently working on **A Process-Aware Decision Support Framework for OT-SOCs,
+integrating risk-based response prioritization with cyber-physical visualization**
 
 - 🌱 I’m currently pursuing **Master of Science in Cybersecurity**
 
