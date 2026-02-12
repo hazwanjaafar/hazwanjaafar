@@ -9,8 +9,9 @@
 
 <img align='right' alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w">
 
+<u1>
 <div style="margin-left: 1.2em;">
-I’m currently working on <strong>A Process-Aware Decision Support Framework for OT-SOCs,integrating risk-based response prioritization with cyber-physical visualization</strong>,</div>
+  <li>I’m currently working on <strong>A Process-Aware Decision Support Framework for OT-SOCs,integrating risk-based response prioritization with cyber-physical visualization</strong>,</div>
 
 <ul>
   <li>🌱 Pursuing <strong>Master of Science in Cybersecurity</strong></li>
