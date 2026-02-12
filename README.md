@@ -11,8 +11,7 @@
 
 <div style="margin-left: 1.2em;">
 I’m currently working on <strong>A Process-Aware Decision Support Framework for OT-SOCs</strong>,<br/>
-integrating risk-based response prioritization with cyber-physical visualization</strong>
-</div>
+<strong>integrating risk-based response prioritization with cyber-physical visualization</strong>,</div>
 
 <ul>
   <li>🌱 Pursuing <strong>Master of Science in Cybersecurity</strong></li>
