@@ -11,7 +11,7 @@
 <img align="center" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w">
 
 <u1>
-  <li>💪🏻 I’m currently working on <strong>A Process-Aware Decision Support Framework for OT-SOCs,Integrating Risk-Based Response Prioritization with Cyber Physical Visualization</strong></li>
+  <li>💪🏻 I’m currently working on <strong>A Process-Aware Decision Support Framework for OT-SOC:Integrating Risk-Based Response Prioritization with Cyber Physical Visualization</strong></li>
 
   <li>🌱 Completing <strong>MSc in Cybersecurity, pursuing PhD in Computer Science</strong></li>
   <li>👨‍💻 Learning <strong>Assembly Language and Reverse Engineering</strong></li>
