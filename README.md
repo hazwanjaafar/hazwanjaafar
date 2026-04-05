@@ -2,11 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hazwan Ja'afar</h1>
 
-<p align="center">
-<img src="https://camo.githubusercontent.com/3b8ebdf66912c47ba110567cb15d81e014b8130466707e42c5f29c9743f7c3d9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d416e64726f696457697468526f7373796e267374796c653d666c617426636f6c6f723d627269676874677265656e" />
-</p>
-
-<h3 align="center">Cyber Threat Researcher from Malaysia</h3>
+<h3 align="center">Aspiring Threat Researcher</h3>
 
 <div align="center">
   <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w" alt="Coding" width="400">
@@ -15,7 +11,7 @@
 <u1>
   <li>💪🏻 I’m currently working on <strong>A Process-Aware Decision Support Framework for OT-SOC:Integrating Risk-Based Response Prioritization with Cyber Physical Visualization</strong></li>
 
-  <li>🌱 Completing <strong>MSc in Cybersecurity, pursuing PhD in Computer Science</strong></li>
+  <li>🌱 Completing <strong>MSc in Cybersecurity, planning pursuing PhD in Computer Science</strong></li>
   <li>👨‍💻 Learning <strong>Assembly Language and Reverse Engineering</strong></li>
   <li>📝 Writing articles at https://sites.google.com/view/www-techtalkwithwan-com/home</li>
 </ul>
