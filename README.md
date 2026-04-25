@@ -9,8 +9,6 @@
 </div>
 
 <u1>
-  <li>💪🏻 I’m currently working on <strong>A Process-Aware Decision Support Framework for OT-SOC:Integrating Risk-Based Response Prioritization with Cyber Physical Visualization</strong></li>
-
   <li>🌱 Completing <strong>MSc in Cybersecurity, planning pursuing PhD in Computer Science</strong></li>
   <li>👨‍💻 Learning <strong>Assembly Language and Reverse Engineering</strong></li>
   <li>📝 Writing articles at https://sites.google.com/view/www-techtalkwithwan-com/home</li>
